@@ -1,0 +1,488 @@
+{
+    "token": {
+        "grids": {
+            "desktop": {
+                "count": {
+                    "value": 12,
+                    "type": "grids"
+                },
+                "gutter": {
+                    "value": "40px",
+                    "type": "grids"
+                },
+                "offset": {
+                    "value": "100px",
+                    "type": "grids"
+                },
+                "width": {
+                    "value": "1600px",
+                    "type": "grids"
+                }
+            },
+            "tablet": {
+                "count": {
+                    "value": 12,
+                    "type": "grids"
+                },
+                "gutter": {
+                    "value": "40px",
+                    "type": "grids"
+                },
+                "offset": {
+                    "value": "60px",
+                    "type": "grids"
+                },
+                "width": {
+                    "value": "1024px",
+                    "type": "grids"
+                }
+            },
+            "mobile": {
+                "count": {
+                    "value": 4,
+                    "type": "grids"
+                },
+                "gutter": {
+                    "value": "20px",
+                    "type": "grids"
+                },
+                "offset": {
+                    "value": "20px",
+                    "type": "grids"
+                },
+                "width": {
+                    "value": "375px",
+                    "type": "grids"
+                }
+            }
+        },
+        "spacers": {
+            "M": {
+                "value": "8px",
+                "type": "spacers"
+            },
+            "S": {
+                "value": "4px",
+                "type": "spacers"
+            },
+            "L": {
+                "value": "16px",
+                "type": "spacers"
+            },
+            "XL": {
+                "value": "24px",
+                "type": "spacers"
+            },
+            "XXL": {
+                "value": "32px",
+                "type": "spacers"
+            }
+        },
+        "colors": {
+            "neutral": {
+                "value": "rgba(0, 0, 0, 1)",
+                "type": "color"
+            },
+            "category": {
+                "value": "rgba(72, 0, 47, 1)",
+                "type": "color"
+            },
+            "brand-secondary": {
+                "value": "rgba(0, 86, 95, 1)",
+                "type": "color"
+            },
+            "brand-primary": {
+                "value": "rgba(199, 3, 9, 1)",
+                "type": "color"
+            }
+        },
+        "fonts": {
+            "link": {
+                "family": {
+                    "value": "Arimo, Arimo-Regular",
+                    "type": "typography"
+                },
+                "size": {
+                    "value": 16,
+                    "type": "typography"
+                },
+                "weight": {
+                    "value": 400,
+                    "type": "typography"
+                },
+                "lineheight": {
+                    "value": "150%",
+                    "type": "typography"
+                },
+                "spacing": {
+                    "value": "normal",
+                    "type": "typography"
+                }
+            },
+            "caption": {
+                "large": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "16px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 400,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "140%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "3px",
+                        "type": "typography"
+                    }
+                },
+                "medium": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "12px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 400,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "140%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "2px",
+                        "type": "typography"
+                    }
+                },
+                "small": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "12px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 400,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "120%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "2px",
+                        "type": "typography"
+                    }
+                }
+            },
+            "h1": {
+                "desktop": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "66px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "tablet": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "56px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "mobile": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "40px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                }
+            },
+            "h2": {
+                "mobile": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "32px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "desktop": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "46px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "tablet": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "40px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                }
+            },
+            "h3": {
+                "mobile": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "28px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "desktop": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "36px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "tablet": {
+                    "family": {
+                        "value": "Zilla Slab",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "32px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "90%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                }
+            },
+            "h4": {
+                "desktop": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "24px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "120%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "mobile": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "22px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 700,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "120%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                }
+            },
+            "content": {
+                "desktop": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "16px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 400,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "150%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                },
+                "mobile": {
+                    "family": {
+                        "value": "Arimo",
+                        "type": "typography"
+                    },
+                    "size": {
+                        "value": "17px",
+                        "type": "typography"
+                    },
+                    "weight": {
+                        "value": 400,
+                        "type": "typography"
+                    },
+                    "lineheight": {
+                        "value": "150%",
+                        "type": "typography"
+                    },
+                    "spacing": {
+                        "value": "normal",
+                        "type": "typography"
+                    }
+                }
+            }
+        }
+    }
+}
